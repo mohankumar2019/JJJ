@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.com.app</groupId>
-  <artifactId>mvnJJJ</artifactId>
+  <artifactId>mohanJJJ</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>mvnJJJ Maven Webapp</name>
@@ -15,18 +15,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <finalName>projectName</finalName>
-   <plugins>
-    <plugin>
-     <artifactId>maven-war-plugin</artifactId>
-     <version>2.1.1</version>
-     <configuration>
-      <webXml>WebContent/WEB-INF/web.xml</webXml>
-     </configuration>
-    </plugin>
-   </plugins>
-  </build>
+   <finalName>mohanJJJ</finalName>
   <build>
-    <finalName>mvnJJJ</finalName>
+    <finalName>mohanJJJ</finalName>
   </build>
 </project>
